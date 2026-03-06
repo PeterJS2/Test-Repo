@@ -1,3 +1,1 @@
-const PJSJokiUts = 'Waduh'
-
-const Erwin_Joki = 'heheh'
+const message = "Nyari apa heh"
