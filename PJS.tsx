@@ -1,1 +1,1 @@
-//test
+const pesan = "ini contoh"
